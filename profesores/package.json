@@ -1,0 +1,20 @@
+{
+  "name": "profesores",
+  "version": "1.0.0",
+  "description": "modulo de profesores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodeJS"
+  },
+  "author": "Alexander Tinoco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "g": "^2.0.1",
+    "nodemon": "^3.1.3"
+  }
+}
